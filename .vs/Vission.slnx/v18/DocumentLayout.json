@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Miguel Ter\u00E1n\\Desktop\\Vission\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C3FD3A-16C6-6FED-47D7-9866AA682ACD}|Vission.API\\Vission.API.csproj|c:\\users\\miguel ter\u00E1n\\desktop\\vission\\vission.api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C3FD3A-16C6-6FED-47D7-9866AA682ACD}|Vission.API\\Vission.API.csproj|solutionrelative:vission.api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C3FD3A-16C6-6FED-47D7-9866AA682ACD}|Vission.API\\Vission.API.csproj|c:\\users\\miguel ter\u00E1n\\desktop\\vission\\vission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C3FD3A-16C6-6FED-47D7-9866AA682ACD}|Vission.API\\Vission.API.csproj|solutionrelative:vission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C3FD3A-16C6-6FED-47D7-9866AA682ACD}|Vission.API\\Vission.API.csproj|c:\\users\\miguel ter\u00E1n\\desktop\\vission\\vission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3C3FD3A-16C6-6FED-47D7-9866AA682ACD}|Vission.API\\Vission.API.csproj|solutionrelative:vission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C3FD3A-16C6-6FED-47D7-9866AA682ACD}|Vission.API\\Vission.API.csproj|c:\\users\\miguel ter\u00E1n\\desktop\\vission\\vission.api\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C3FD3A-16C6-6FED-47D7-9866AA682ACD}|Vission.API\\Vission.API.csproj|solutionrelative:vission.api\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Ter\u00E1n\\Desktop\\Vission\\Vission.API\\Program.cs",
+              "RelativeDocumentMoniker": "Vission.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Miguel Ter\u00E1n\\Desktop\\Vission\\Vission.API\\Program.cs",
+              "RelativeToolTip": "Vission.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:08:42.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Ter\u00E1n\\Desktop\\Vission\\Vission.API\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Vission.API\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Miguel Ter\u00E1n\\Desktop\\Vission\\Vission.API\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Vission.API\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:43:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Ter\u00E1n\\Desktop\\Vission\\Vission.API\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Vission.API\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Miguel Ter\u00E1n\\Desktop\\Vission\\Vission.API\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "Vission.API\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:41:36.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Miguel Ter\u00E1n\\Desktop\\Vission\\Vission.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Vission.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Miguel Ter\u00E1n\\Desktop\\Vission\\Vission.API\\appsettings.json",
+              "RelativeToolTip": "Vission.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-19T16:29:04.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
